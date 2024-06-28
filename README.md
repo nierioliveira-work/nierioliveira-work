@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
   
 ![snake animation](https://github.com/nierioliveira-work/nierioliveira-work/blob/output/github-contribution-grid-snake-dark.svg)
-[![readme](https://github-stats-vercel.app/api/pin/?username=nierioliveira-work&theme=react)](https://github.com/nierioliveira-work/nierioliveira-work)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=nierioliveira-work&theme=react)](https://github.com/nierioliveira-work/nierioliveira-work)
 
 </div>
