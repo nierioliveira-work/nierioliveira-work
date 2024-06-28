@@ -7,8 +7,6 @@ Here are some ideas to get you started:
 
 
 -->
-https://github.com/nierioliveira-work/nierioliveira-work/blob/output/github-contribution-grid-snake.gif
-
 ![snake gif](https://github.com/nierioliveira-work/nierioliveira-work/blob/output/github-contribution-grid-snake.gif)
 
 
