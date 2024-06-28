@@ -6,11 +6,12 @@
 Here are some ideas to get you started:
 ![snake gif](https://github.com/nierioliveira-work/nierioliveira-work/blob/output/github-contribution-grid-snake.gif)
 ![snake animation](https://github.com/nierioliveira-work/nierioliveira-work/blob/output/github-contribution-grid-snake-dark.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=nierioliveira-work&repo=nierioliveira-work&theme=react)](https://github.com/nierioliveira-work/nierioliveira-work)
 
 
 -->
 ![snake gif](https://github.com/nierioliveira-work/nierioliveira-work/blob/output/github-contribution-grid-snake.gif)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=nierioliveira-work&repo=nierioliveira-work&theme=react)](https://github.com/nierioliveira-work/nierioliveira-work)
+
 
 
 - 🔭 I’m currently working on Data Engineering
