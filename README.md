@@ -4,11 +4,13 @@
 **nierioliveira-work/nierioliveira-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-
--->
 ![snake gif](https://github.com/nierioliveira-work/nierioliveira-work/blob/output/github-contribution-grid-snake.gif)
 
+-->
+
+
+![snake animation](https://github.com/nierioliveira-work/nierioliveira-work/blob/output/github-contribution-grid-snake-dark.svg)
+[![snake animation](https://github-stats-vercel.app/api/pin/?username=nierioliveira-work&theme=react)](https://github.com/nierioliveira-work/nierioliveira-work)
 
 - 🔭 I’m currently working on Data Engineering
 - 🌱 I’m currently learning DataWarehouse, AWS, Pipeline
