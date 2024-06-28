@@ -7,8 +7,9 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/nierioliveira-work/nierioliveira-work/blob/output/github-contribution-grid-snake.gif)
 
 -->
-
-
+![snake gif](https://github.com/nierioliveira-work/nierioliveira-work/blob/output/github-contribution-grid-snake.gif)
+![snake animation](https://github.com/nierioliveira-work/nierioliveira-work/blob/output/github-contribution-grid-snake-dark.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=nierioliveira-work&repo=nierioliveira-work&theme=react)](https://github.com/nierioliveira-work/nierioliveira-work)
 
 
 - 🔭 I’m currently working on Data Engineering
@@ -29,7 +30,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:600/1*1S1FzR-yg-ucZGMoxCC9hw.png">
 
   
-![snake animation](https://github.com/nierioliveira-work/nierioliveira-work/blob/output/github-contribution-grid-snake-dark.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=nierioliveira-work&theme=react)](https://github.com/nierioliveira-work/nierioliveira-work)
+
 
 </div>
