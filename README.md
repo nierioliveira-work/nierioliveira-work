@@ -9,8 +9,7 @@ Here are some ideas to get you started:
 -->
 
 
-![snake animation](https://github.com/nierioliveira-work/nierioliveira-work/blob/output/github-contribution-grid-snake-dark.svg)
-[![snake animation](https://github-stats-vercel.app/api/pin/?username=nierioliveira-work&theme=react)](https://github.com/nierioliveira-work/nierioliveira-work)
+
 
 - 🔭 I’m currently working on Data Engineering
 - 🌱 I’m currently learning DataWarehouse, AWS, Pipeline
@@ -30,5 +29,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:600/1*1S1FzR-yg-ucZGMoxCC9hw.png">
 
   
+![snake animation](https://github.com/nierioliveira-work/nierioliveira-work/blob/output/github-contribution-grid-snake-dark.svg)
+[![readme](https://github-stats-vercel.app/api/pin/?username=nierioliveira-work&theme=react)](https://github.com/nierioliveira-work/nierioliveira-work)
 
 </div>
