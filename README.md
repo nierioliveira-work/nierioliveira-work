@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi there, my name is Niéri 👋
 <!--
 **nierioliveira-work/nierioliveira-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
