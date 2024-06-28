@@ -1,12 +1,12 @@
 ## Hi there, my name is Niéri 👋
-<!--
+
 **nierioliveira-work/nierioliveira-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Engineering
 - 🌱 I’m currently learning DataWarehouse, AWS, Pipeline
--->
+
 
 
 <div align="center">
